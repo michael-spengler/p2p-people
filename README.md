@@ -3,7 +3,7 @@
 Potential skeleton for Peer 2 Peer People
 
 Using GitHub Action based deployment (on push to master branch):
-https://peer2peer-enterprise.org:3443/ 
+https://peer2peer-people.org
 
 # Backend 
 Deno based backend
