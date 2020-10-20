@@ -6,10 +6,12 @@ Using GitHub Action based deployment (on push to master branch):
 https://peer2peer-people.org
 
 # Backend 
-Deno based backend
+Deno based backend - https://github.com/michael-spengler/p2p-people/blob/main/server/p2p-people-server.ts
 
 # Frontend
-Vue.js
+Vue.js - We prepared two potential templates which you might move to the client folder in order to have a quick start experience :)
+1. https://github.com/nikolockenvitz/vue-boilerplate-vue2-router-vuex-vuetify
+2. https://github.com/FischerRene/vue-boilerplate-vue2-router-vuex
 
 # Values & Spirit
 Shall be built in the spirit of Web3  
