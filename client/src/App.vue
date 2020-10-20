@@ -12,7 +12,7 @@
     </h2> 
     <br />
     <a
-      href="https://github.com/michael-spengler/p2p-enterprise"
+      href="https://github.com/michael-spengler/p2p-people"
       target="_blank"
       rel="noopener noreferrer"
     >https://github.com/michael-spengler/p2p-people</a>
